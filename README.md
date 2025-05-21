@@ -1,6 +1,6 @@
 Ex. No.: 9 - To Explore and Understand the Various Prompting Techniques Used for Generating Videos Through AI Models
 Date:7/5/25
-Register No.: 212222060175
+Register No.: 212222060142
 
 # Aim:
 To perform the exploration of prompting techniques for video generation using AI tools. This involves understanding how prompt structure, specificity, and phrasing influence the outcome of video generation in various contexts like animation, cinematic sequences, or realistic simulations.
